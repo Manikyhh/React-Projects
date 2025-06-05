@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "31bf",
+      "name": "Manikya H Hansabhavi",
+      "email": "manikyahh@gmail.com",
+      "phone": "9909238498"
+    },
+    {
+      "id": "3bba",
+      "name": "Jani",
+      "email": "Jani@gmail.com",
+      "phone": "9008637449"
+    },
+    {
+      "id": "e789",
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "6463456534"
+    },
+    {
+      "id": "7451",
+      "name": "Sony",
+      "email": "sony@gmail.com",
+      "phone": "9909238498"
+    },
+    {
+      "id": "2a5e",
+      "name": "demo",
+      "email": "demo@gmail.com",
+      "phone": "6463456534"
+    },
+    {
+      "id": "75d0",
+      "name": "bhagu",
+      "email": "bhagu@gmail.com",
+      "phone": "1222652384"
+    },
+    {
+      "id": "09a0",
+      "name": "test",
+      "email": "test@gmail.com",
+      "phone": "9909238498"
+    },
+    {
+      "id": "dc1f",
+      "name": "TEST DEMO",
+      "email": "manikyahh@gmail.com",
+      "phone": "2109867832"
+    },
+    {
+      "id": "11b9",
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "1222652384"
+    }
+  ]
+}
