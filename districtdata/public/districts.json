@@ -1,0 +1,20 @@
+{
+  "districts": [
+    {
+      "name": "Bengaluru Urban",
+      "locations": ["Whitefield", "Indiranagar", "Koramangala"]
+    },
+    {
+      "name": "Mysuru",
+      "locations": ["Nanjangud", "T. Narasipura", "Hunsur"]
+    },
+    {
+      "name": "Dharwad",
+      "locations": ["Hubballi", "Navalgund", "Kalghatgi"]
+    },
+    {
+      "name": "Udupi",
+      "locations": ["Kundapura", "Karkala", "Brahmavar"]
+    }
+  ]
+}
